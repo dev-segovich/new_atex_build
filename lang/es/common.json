@@ -274,7 +274,10 @@
       "title": "Cómo Funciona",
       "description1": "Usted lidera el proyecto. Nosotros gestionamos la ejecución, como un socio operativo experimentado que siguiendo el plan acordado.",
       "description2": "La Tarifa de Gestión cubre todos los servicios centrales desde los permisos hasta la entrega.",
-      "description3": "La Tarifa de Éxito aplica solo para proyectos de reventa. Si generamos ahorros de tiempo o costos, usted participa en esos ahorros y nuestra tarifa de éxito aumenta en función del valor generado. No se aplica tarifa de éxito en viviendas para uso personal o de propiedad a largo plazo. Si la propiedad no se coloca en el mercado, se aplica una tarifa completa de mercado (disponible bajo solicitud)."
+      "description3": "La Tarifa de Éxito aplica solo para proyectos de reventa. Si generamos ahorros de tiempo o costos, usted participa en esos ahorros y nuestra tarifa de éxito aumenta en función del valor generado.",
+      "description4": "No se aplica tarifa de éxito en viviendas para uso personal o de propiedad a largo plazo.",
+      "description5": "Si la propiedad no se coloca en el mercado, se aplica una tarifa completa de mercado (disponible bajo solicitud)."
+      
     },
     "criteria": {
       "title": "Lo que buscamos en los terrenos",
@@ -319,7 +322,8 @@
         "title": "La conclusión",
         "description": "Construir una residencia exclusiva en terrenos frente al mar no solo es una declaración: es un activo estratégico. Tú mantienes el control. Nosotros ejecutamos. Juntos creamos valor duradero."
       }
-    ]
+    ],
+    "carouselTitle": "Último Proyecto"
 
   }
 

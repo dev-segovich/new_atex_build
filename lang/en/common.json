@@ -274,7 +274,9 @@
       "title": "How It Works",
       "description1": "You lead the project. We manage execution, like a seasoned operations partner following the agreed plan.",
       "description2": "Management Fee covers all core services from permitting to delivery.",
-      "description3": "Success Fee applies only for resale projects. If we generate cost or time savings, you share in those savings, and our success fee increases based on the value we generate for you. No success fee applies for personal or long-term ownership homes. If the property is not placed on the market, a full market-rate fee schedule applies (full fee schedule available upon request)."
+      "description3": "Success Fee applies only for resale projects. If we generate cost or time savings, you share in those savings, and our success fee increases based on the value we generate for you.",
+      "description4": "No success fee applies for personal or long-term ownership homes.",
+      "description5": "If the property is not placed on the market, a full market-rate fee schedule applies (full fee schedule available upon request)."
     },
     "criteria": {
       "title": "What We Look For in Sites",
@@ -319,7 +321,8 @@
         "title": "The Bottom Line",
         "description": "Building an exclusive residence on prime waterfront land is more than a statement—it’s a strategic asset. You stay in control. We execute. Together we create value that lasts."
       }
-    ]
+    ],
+     "carouselTitle": "Lasted Project"
   }
 
 
