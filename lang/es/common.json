@@ -1,0 +1,328 @@
+{
+  "home": "Inicio",
+  "about": "Sobre nosotros",
+  "contact": "Contacto",
+  "strategy": "Estrategia de Inversión",
+  "language": "Idioma",
+  "services": "Servicios",
+  "intro_1": "Atex Group ofrece gestión integral de desarrollos y representación de propietarios, sin necesidad de empuñar un martillo. Nos asociamos con clientes privados y oficinas familiares para dar vida a proyectos residenciales de lujo, multifamiliares y de uso mixto en todo EE.UU., brindando liderazgo estratégico desde la adquisición hasta la entrega.",
+  "intro_2": "No realizamos construcción ni supervisión en obra. En su lugar, coordinamos con profesionales con licencia de primer nivel en cada mercado, lo que nos permite gestionar proyectos complejos de forma remota con precisión, rapidez y total alineación con la visión de nuestros clientes. Este modelo ofrece lo mejor de ambos mundos: experiencia local en el terreno combinada con un socio dedicado que gestiona todo entre bastidores.",
+  "intro_3": "Desde la obtención de permisos y la conformación de equipos hasta la gestión de presupuestos, desembolsos y el cierre de proyectos, actuamos como el motor detrás de los desarrollos exitosos, protegiendo tu inversión y liberándote para enfocarte en lo que haces mejor.",
+  "we_provide": "Nuestros Servicios",
+  "service_1_title": "Asesoría Inmobiliaria",
+  "service_1_text": "En Atex Group representamos a los propietarios desde el primer día, guiando cada decisión crítica antes de que un proyecto inicie. Nuestros servicios de asesoría apoyan a los clientes en la adquisición de terrenos con un enfoque en viabilidad, estrategias de permisos y estructura de acuerdos. Coordinamos estudios de diseño preliminares, evaluamos rutas de zonificación y alineamos presupuestos y cronogramas con los objetivos financieros del proyecto. Nuestra metodología enfatiza el análisis basado en datos y la inteligencia de desarrollo, asegurando que cada oportunidad sea viable, coherente con los objetivos a largo plazo y posicionada para una ejecución exitosa.",
+  "service_2_title": "Representación del Cliente",
+  "service_2_text": "Como representantes del propietario, actuamos como asesores de confianza durante todo el proceso de desarrollo, desde la planificación inicial hasta la entrega final. Lideramos la definición de objetivos, la conformación de equipos, la coordinación de diseño, la supervisión de presupuestos y la gestión de cronogramas para garantizar la alineación con la visión e inversión del cliente. Aunque no realizamos la supervisión directa de la obra, coordinamos con un experto independiente en supervisión de obras, seleccionado específicamente según el tipo de producto y ubicación. Nuestro papel es asegurar el éxito del proyecto, impulsando la responsabilidad, reduciendo riesgos y garantizando que cada decisión refleje los mejores intereses del propietario.",
+  "capabilities": "Capacidades",
+  "cap_1_title": "Residencias de Lujo",
+  "cap_1_text": "Estamos especializados en la gestión del desarrollo de residencias personalizadas de aproximadamente 10,000 pies cuadrados, cada una diseñada para reflejar la visión, estilo de vida y expectativas de nuestros clientes privados y sus equipos de diseño. Desde las primeras conversaciones de planificación hasta la entrega final, coordinamos cada detalle entre consultores, constructores y contratistas para asegurar un proceso fluido y un resultado extraordinario. Con Atex, tu hogar soñado se desarrolla con precisión, discreción y un compromiso absoluto con la calidad.",
+  "cap_2_title": "Comunidades Multifamiliares",
+  "cap_2_text": "Nos asociamos con desarrolladores y clientes para entregar comunidades de apartamentos tipo jardín de alto rendimiento, generalmente con más de 200 unidades, ubicadas cerca de centros de empleo y corredores de transporte. Actuando como tu oficina administrativa desde la adquisición hasta la venta, gestionamos permisos, presupuestos, coordinación de equipos, documentación para prestamistas y todo lo que se requiera. Nuestro soporte te permite enfocarte en recaudar capital, construir relaciones y mantener la visión general.",
+  "cap_3_title": "Comercial y Uso Mixto",
+  "cap_3_text": "En nuestros proyectos de uso mixto, ayudamos a dar vida a los componentes comerciales con propósito e intención. Ya sea activando experiencias minoristas o apoyando a emprendedores locales, trabajamos en estrecha colaboración con clientes y socios para crear entornos que complementen la experiencia residencial y generen valor a largo plazo. Desde la viabilidad hasta la adecuación final, gestionamos todo el proceso de desarrollo, impulsando silenciosamente el trabajo tras bastidores para que nuestros socios lideren desde el frente.",
+  "why_choose": "Por Qué los Clientes Eligen Atex",
+  "accordion_1_title": "Supervisión Integral",
+  "accordion_1_content": "Gestionamos todo el proceso de desarrollo, desde la planificación hasta el cierre, garantizando que cada fase esté alineada con tus objetivos. Nuestro enfoque integral evita desconexiones entre diseño, permisos y ejecución.",
+  "accordion_2_title": "Equipo Especializado",
+  "accordion_2_content": "Aprovechamos una red de arquitectos, ingenieros, consultores y expertos independientes, cuidadosamente seleccionados para cada proyecto según su escala, tipo de producto y ubicación.",
+  "accordion_3_title": "Comunicación Clara y Proactiva",
+  "accordion_3_content": "Priorizamos la claridad, la coherencia y la respuesta rápida. Nuestro equipo mantiene informados a los propietarios en cada etapa, anticipando desafíos y asegurando la alineación entre los involucrados.",
+  "accordion_4_title": "Ejecución que Ahorra Tiempo",
+  "accordion_4_content": "Nos encargamos de los detalles para que no tengas que hacerlo tú. Con una organización rigurosa y gestión proactiva, simplificamos la toma de decisiones y te liberamos para centrarte en las prioridades estratégicas.",
+  "accordion_5_title": "Gestión de Riesgos Incorporada",
+  "accordion_5_content": "Reducimos riesgos mediante una planificación temprana, revisiones de viabilidad detalladas y supervisión constante. Cuando surgen problemas, los resolvemos antes de que escalen, protegiendo tu tiempo, capital y visión.",
+  "accordion_6_title": "Experiencia Local, Alcance Nacional",
+  "accordion_6_content": "Operamos con flexibilidad y alcance, combinando conocimiento regional con presencia nacional. Dondequiera que esté tu proyecto, aportamos las relaciones correctas y la visión en el terreno.",
+  "caption_1": "Proyectos Atex: Donde la Visión se Convierte en Realidad",
+  "caption_2": "Proyectos Atex: Donde la Visión se Convierte en Realidad",
+  "footer_rights": "Atex Group. Todos los derechos reservados.",
+  "footer_disclaimer": "Aviso legal: El contenido es solo para fines informativos y no constituye asesoramiento profesional. Atex Group ofrece representación del propietario y servicios de consultoría; la supervisión en obra la realizan expertos externos. Las imágenes son propiedad de Atex o se utilizan con los derechos correspondientes.",
+  "footer_view_disclaimer": "Ver aviso legal completo",
+  "service_title_main": "Nuestros Servicios",
+  "service_title_sub": "Representación del Propietario en Todo el Ciclo de Vida",
+  "service_paragraph_1": "En Atex Group, representamos los intereses de propiedad desde la evaluación del terreno hasta el cierre del proyecto, gestionando la estrategia de desarrollo, la coordinación del equipo, la supervisión financiera y la documentación dirigida a los prestamistas. Aunque no realizamos supervisión en sitio directamente, trabajamos con profesionales externos especializados en el tipo de producto y mercado local. Este modelo nos permite gestionar proyectos de forma remota en todo Estados Unidos con precisión constante y control de costos.",
+  "service_paragraph_2": "Al encargarnos de los procesos administrativos y financieros más demandantes, liberamos a los expertos locales para que se concentren únicamente en lo que mejor hacen: el control de calidad y la supervisión de obra. Este enfoque no solo reduce la fricción, sino que también atrae constantemente talento de primer nivel, lo que se traduce en resultados de mayor calidad y mayor eficiencia en los proyectos. Nuestra estructura es ágil, eficaz y comprobada, permitiendo a nuestros clientes centrarse en su visión mientras nosotros nos encargamos de la ejecución.",
+  "serviceAccordion": { 
+    "note":{
+       "label": "Nota:",
+       "text": "Toda la supervisión en obra y los servicios de construcción son realizados por profesionales licenciados externos. ATEX Group CX no actúa como contratista general ni como gerente de obra registrado."
+    },    
+    "sections": [
+      {
+        "title": "1. Inteligencia de Mercado y Evaluación de Sitios",
+        "subtitle": "Investigación y Diligencia Debida",
+        "items": [
+          "Estrategia de búsqueda de terrenos y visitas para evaluar condiciones físicas, normativas y de acceso",
+          "Análisis de riesgos y restricciones (por ejemplo, servicios públicos, servidumbres, condiciones ambientales)",
+          "Análisis de propiedades comparables para referencia de ingresos",
+          "Planificación preliminar del cronograma y presupuesto para permisos, diseño y ejecución",
+          "Revisión de superposiciones de zonificación y contacto temprano con autoridades",
+          "Asistencia en la adquisición, incluyendo estructura del trato y coordinación del cierre"
+        ]
+      },
+      {
+        "title": "2. Viabilidad y Modelado Financiero",
+        "subtitle": "Estudios de Factibilidad y Análisis Pro Forma",
+        "items": [
+          "Pro formas de proyecto personalizadas con ingresos, costos y fases",
+          "Creación completa de presupuesto de desarrollo con partidas de la División 1 a la 16",
+          "Cálculos de TIR, proyecciones de flujo de caja y estructuración del capital",
+          "Asesoría sobre capital, asociaciones, deuda mezzanine y preparación de propuestas para prestamistas",
+          "Pruebas de escenarios, análisis de sensibilidad y estudios de optimización de valor"
+        ]
+      },
+      {
+        "title": "3. Formación de Equipos y Estrategia de Contratación",
+        "subtitle": "Selección de Equipo y Contratación",
+        "items": [
+          "Selección, evaluación y coordinación de arquitectos, ingenieros y consultores",
+          "Precalificación de contratistas, armado de paquetes de licitación y verificación de socios",
+          "Preparación para entrevistas y apoyo en negociación de contratos con CM o GC",
+          "Alineación del alcance con objetivos de diseño, cronograma y presupuesto",
+          "Planificación del cronograma de adquisición vinculada a hitos y financiamiento"
+        ]
+      },
+      {
+        "title": "4. Permisos, Diseño y Aprobaciones",
+        "subtitle": "Gestión de Pre-desarrollo y Diseño",
+        "items": [
+          "Supervisión de zonificación, aprobaciones de planos, permisos y variaciones",
+          "Coordinación con abogados, urbanistas y consultores de uso de suelo",
+          "Gestión de arquitectos, ingenieros MEP y estructurales",
+          "Diseño preliminar, distribución y análisis de eficiencia de estacionamiento",
+          "Integración de incentivos verdes y créditos energéticos",
+          "Estrategia de permisos y enlace con agencias locales",
+          "Ingeniería de valor para controlar costos sin comprometer el diseño",
+          "Apoyo con métodos alternativos como modulares o prefabricados"
+        ]
+      },
+      {
+        "title": "5. Administración Preconstructiva",
+        "subtitle": "Validación de Costos y Alcance",
+        "items": [
+          "Revisión de supuestos presupuestarios y conciliación con CM o GC",
+          "Establecimiento de protocolos contables y cronograma de valores",
+          "Revisión de seguros, fianzas y asignación de riesgos contractuales",
+          "Preparación de documentación para prestamistas, socios e inspecciones",
+          "Alineación proactiva de adquisiciones y planes de movilización"
+        ]
+      },
+      {
+        "title": "6. Apoyo en la Fase de Construcción",
+        "subtitle": "Administración de la Supervisión de Obra (Realizada por terceros)",
+        "items": [
+          "Seguimiento del avance de obra mediante reportes y coordinación en sitio",
+          "Revisión y aprobación de órdenes de cambio y solicitudes de pago",
+          "Gestión de documentación para desembolsos de préstamos y seguimiento de presupuesto",
+          "Mitigación de retrasos mediante coordinación con contratistas",
+          "Administración de certificaciones de costos y validación de costos blandos",
+          "Comunicación continua con clientes, legales y financieros",
+          "Resolución de conflictos entre propietario, consultores y contratista"
+        ]
+      },
+      {
+        "title": "7. Control del Proyecto y Aseguramiento de Calidad",
+        "subtitle": "Supervisión Financiera y Gestión de Riesgos",
+        "items": [
+          "Actualizaciones continuas del pro forma y proyecciones de costos",
+          "Monitoreo de hitos del proyecto y desempeño de contratistas",
+          "Evaluación de órdenes de cambio y reclamaciones",
+          "Valoración mensual de avances y revisión de facturas de costos blandos",
+          "Desarrollo y seguimiento de cronogramas maestros y de corto plazo",
+          "Identificación temprana y resolución de vacíos de alcance",
+          "Control de calidad con apoyo de supervisores de obra externos"
+        ]
+      },
+      {
+        "title": "8. Cierre del Proyecto y Entrega",
+        "subtitle": "Gestión de Entrega Final",
+        "items": [
+          "Coordinación del último desembolso y conciliación de costos",
+          "Gestión de lista de pendientes y entrega (por terceros)",
+          "Documentación final, garantías y cumplimiento normativo",
+          "Formación de condominio y transición a administración o venta",
+          "Liberación de fondos en fideicomiso o retenciones"
+        ]
+      },
+      {
+        "title": "9. Coordinación con Prestamistas e Inversionistas",
+        "subtitle": "Servicios de Préstamo e Inversión",
+        "items": [
+          "Monitoreo de préstamos de construcción y certificaciones de avance",
+          "Seguimiento y confirmación de aportes de capital",
+          "Coordinación de liberación de depósitos asegurados",
+          "Reportes a prestamistas principales y mezzanine",
+          "Revisión de documentos financieros, criterios de preventa y seguros",
+          "Informes de visitas y paquetes de diligencia para prestamistas"
+        ]
+      },
+      {
+        "title": "10. Servicios Financieros Post-Construcción",
+        "subtitle": "Distribuciones e Informes a Inversionistas",
+        "items": [
+          "Informes de distribución para copropietarios y socios",
+          "Análisis de distribuciones: pago de préstamos, retornos preferidos, participación",
+          "Planificación de garantías, conciliación de cartas de crédito",
+          "Documentación de retornos preferentes y reparto de utilidades",
+          "Ensamblaje de informe final para inversionistas y oficinas familiares"
+        ]
+      }
+    ]
+  },
+  "aboutPage": {
+    "title": "SOBRE NOSOTROS",
+    "description": "Atex Group es una firma de asesoría inmobiliaria y representación del propietario que atiende a clientes privados y oficinas familiares en Estados Unidos. Con más de dos décadas de experiencia en desarrollo inmobiliario e infraestructura en EE.UU. y América Latina, aportamos un conocimiento profundo tanto de la supervisión estratégica como de la ejecución local.<br /><br />Desde 2018, hemos dejado atrás la infraestructura de telecomunicaciones para enfocarnos exclusivamente en viviendas unifamiliares de alta gama, comunidades multifamiliares y desarrollos de uso mixto. Nuestra misión es ayudar a los clientes a dar vida a su visión con claridad, control y calidad excepcional. En proyectos residenciales de lujo, trabajamos en estrecha colaboración con propietarios, arquitectos y constructores para garantizar que cada detalle refleje las expectativas del cliente—a tiempo y con los más altos estándares.<br /><br />En comunidades multifamiliares y urbanismos planificados, damos prioridad a la habitabilidad, la conectividad peatonal y el valor a largo plazo mediante un diseño reflexivo y a escala humana. Estamos comprometidos con el desarrollo de comunidades bajo una filosofía de vivir–trabajar–disfrutar: espacios funcionales, vibrantes y preparados para el futuro.<br /><br />Gracias a nuestra experiencia gestionando proyectos complejos de forma remota, hemos perfeccionado un modelo que combina liderazgo administrativo y financiero centralizado con equipos locales de alto rendimiento. Esto nos permite entregar resultados personalizados de forma eficiente y efectiva—sin comprometer la calidad, el presupuesto ni la intención del diseño.",
+    "coreValues": {
+      "title": "Valores Fundamentales",
+      "values": [
+        {
+          "title": "Claridad Estratégica",
+          "description": "Cada decisión está guiada por una perspectiva a largo plazo basada en datos y alineada con tus objetivos."
+        },
+        {
+          "title": "Representación Discreta",
+          "description": "Actuamos como guardianes de confianza, protegiendo tus intereses con discreción y profesionalismo."
+        },
+        {
+          "title": "Valor a Largo Plazo",
+          "description": "Priorizamos la sostenibilidad, habitabilidad y un diseño perdurable para preservar y aumentar el valor."
+        },
+        {
+          "title": "Ejecución Centrada en el Cliente",
+          "description": "Tu visión guía cada paso. Coordinamos con precisión y comunicamos con total transparencia."
+        }
+      ]
+    }
+  },
+  "contactPage": {
+    "title": "Contáctanos",
+    "subtitle": "Formulario de Inversor en Bienes Raíces",
+    "intro": "Accede a Oportunidades Exclusivas Internas.\nSolo compartimos oportunidades de inversión que desarrollamos y gestionamos nosotros mismos, todas cuidadosamente evaluadas y orientadas a un retorno superior al 20%.",
+    "sections": {
+      "basic": "Información Básica",
+      "type": "Tipo de Inversor*",
+      "accreditation": "Estado de Acreditación*",
+      "region": "Región de Residencia*",
+      "minimum": "Confirmación de Inversión Mínima*",
+      "interests": "Intereses de Inversión",
+      "referral": "¿Cómo supiste de nosotros?",
+      "message": "Mensaje / Preguntas"
+    },
+    "labels": {
+      "fullName": "Nombre completo*",
+      "email": "Correo electrónico*",
+      "phone": "Teléfono / WhatsApp",
+      "entity": "Nombre de la entidad (si aplica)",
+      "other": "Otro",
+      "accredited": "Confirmo que soy un inversor acreditado según lo definido por la SEC de EE. UU.",
+      "upload": "Sube el documento de acreditación (PDF o enlace)",
+      "orLink": "O proporciona un enlace a tu documento de acreditación",
+      "minimumInvestment": "Confirmo que estoy interesado en inversiones de $250,000 o más"
+    },
+    "placeholders": {
+      "otherType": "Si eligió 'Otro', por favor especifique",
+      "otherRegion": "Si eligió 'Otro', por favor especifique",
+      "referral": "Referencia, conferencia, redes sociales, etc.",
+      "message": "¿Algo más que desees compartir?",
+      "selectOption": "Selecciona una opción"
+    },
+    "investorTypes": [
+      "Oficina Familiar (Family Office)",
+      "Fondo de Capital Privado",
+      "Persona de Alto Patrimonio (HNW)",
+      "Inversor Institucional",
+      "Sindicado Inmobiliario",
+      "Asesor de Patrimonio / Gestor de Fondos",
+      "Grupo de Inversión Internacional"
+    ],
+    "regions": {
+      "unitedStates": "Estados Unidos",
+      "southAmerica": "América del Sur",
+      "centralAmerica": "Centroamérica y el Caribe",
+      "europe": "Europa",
+      "middleEast": "Medio Oriente",
+      "asiaPacific": "Asia-Pacífico",
+      "canada": "Canadá",
+      "other": "Otro"
+    },
+    "interests": [
+      "Desarrollo Multifamiliar desde Cero",
+      "Proyectos de Usos Mixtos",
+      "Vivienda para la Fuerza Laboral",
+      "Mejoras / Rehabilitación de Valor",
+      "Participación como Co-GP / JV",
+      "Deuda / Equity Preferente"
+    ],
+    "disclaimer": {
+      "label": "Aviso Legal:",
+      "text": "Esto no constituye una oferta para vender ni una solicitud para comprar valores. Todas las inversiones se ofrecen solo a inversores acreditados según la Regulación D y están sujetas a verificación."
+    },
+    "submit": "Enviar"
+  },
+  "investmentStrategy": {
+    "title": "Estrategia de Inversión",
+    "intro": "Preserve y haga crecer su patrimonio en el mercado estadounidense. Para los inversionistas enfocados en la protección de capital, los bienes raíces frente al mar en EE.UU. ofrecen una seguridad incomparable. Nuestro modelo es simple: adquirir terrenos escasos y de alta demanda, construir viviendas de lujo y respaldar su capital con activos tangibles en un entorno legal y económico estable. Cada dólar está respaldado por una propiedad real en una ubicación costera privilegiada. Sin especulación ni riesgos ocultos. Usted controla el activo, y nosotros ejecutamos con total transparencia.",
+    "why": {
+      "title": "Por Qué Lo Hacemos",
+      "description": "Las propiedades frente al mar en el sur de Florida son escasas. Esa escasez, combinada con diseño de alta gama y acceso náutico, genera valor duradero. En lugar de mantener efectivo en cuentas de bajo rendimiento o mercados volátiles, los inversionistas transforman capital eficiente en activos duraderos, utilizables personalmente o como legado."
+    },
+    "ownership": {
+      "title": "Lo Que Usted Posee y Controla",
+      "description": "Usted recibe el título completo de la tierra y las mejoras. Tiene control legal sobre la entidad del proyecto, diseño, estrategia de salida y estructura fiscal. Todas las decisiones importantes son suyas, y mantiene acceso a nuestros servicios de desarrollo y construcción durante toda la ejecución. Nuestro rol es estrictamente operativo."
+    },
+    "howItWorks": {
+      "title": "Cómo Funciona",
+      "description1": "Usted lidera el proyecto. Nosotros gestionamos la ejecución, como un socio operativo experimentado que siguiendo el plan acordado.",
+      "description2": "La Tarifa de Gestión cubre todos los servicios centrales desde los permisos hasta la entrega.",
+      "description3": "La Tarifa de Éxito aplica solo para proyectos de reventa. Si generamos ahorros de tiempo o costos, usted participa en esos ahorros y nuestra tarifa de éxito aumenta en función del valor generado. No se aplica tarifa de éxito en viviendas para uso personal o de propiedad a largo plazo. Si la propiedad no se coloca en el mercado, se aplica una tarifa completa de mercado (disponible bajo solicitud)."
+    },
+    "criteria": {
+      "title": "Lo que buscamos en los terrenos",
+      "items": [
+        {
+          "icon": "waterfront.webp",
+          "label": "Al menos 75 pies de frente al agua"
+        },
+        {
+          "icon": "access.webp",
+          "label": "Acceso directo al océano sin puentes fijos"
+        },
+        {
+          "icon": "landarea.webp",
+          "label": "Área de terreno entre 10.000 y 20.000 pies cuadrados (1.000–2.000 m²)"
+        },
+        {
+          "icon": "buildable.webp",
+          "label": "Área construible entre 7.000 y 12.000 pies cuadrados bajo techo (650–1.100 m²)"
+        },
+        {
+          "icon": "family.webp",
+          "label": "Principalmente casas unifamiliares, pero también consideramos complejos familiares para legado"
+        }
+      ]
+    },
+    "cardsTitle": "Pilares de Ejecución",
+    "cards": [
+      {
+        "title": "Diseño basado en datos",
+        "description": "Estudiamos qué se vende: comparables de ventas, información de agentes y preferencias de compradores. Incorporamos sistemas inteligentes, áreas exteriores estilo resort y diseños eficientes. El resultado es una vivienda hermosa y lista para el mercado."
+      },
+      {
+        "title": "Presupuesto inteligente",
+        "description": "Licitamos cada especialidad de manera competitiva para evitar precios inflados. Entregamos acabados de lujo con disciplina presupuestaria adaptada al mercado local."
+      },
+      {
+        "title": "Supervisión en tiempo real",
+        "description": "Accedes a video en vivo de la obra, un panel digital del presupuesto y reportes financieros trimestrales. Te mantienes completamente informado, incluso a distancia."
+      },
+      {
+        "title": "La conclusión",
+        "description": "Construir una residencia exclusiva en terrenos frente al mar no solo es una declaración: es un activo estratégico. Tú mantienes el control. Nosotros ejecutamos. Juntos creamos valor duradero."
+      }
+    ]
+
+  }
+
+
+
+}
