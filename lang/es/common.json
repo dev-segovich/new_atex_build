@@ -271,13 +271,12 @@
       "description": "Usted recibe el título completo de la tierra y las mejoras. Tiene control legal sobre la entidad del proyecto, diseño, estrategia de salida y estructura fiscal. Todas las decisiones importantes son suyas, y mantiene acceso a nuestros servicios de desarrollo y construcción durante toda la ejecución. Nuestro rol es estrictamente operativo."
     },
     "howItWorks": {
-      "title": "Cómo Funciona",
-      "description1": "Usted lidera el proyecto. Nosotros gestionamos la ejecución, como un socio operativo experimentado que siguiendo el plan acordado.",
-      "description2": "La Tarifa de Gestión cubre todos los servicios centrales desde los permisos hasta la entrega.",
-      "description3": "La Tarifa de Éxito aplica solo para proyectos de reventa. Si generamos ahorros de tiempo o costos, usted participa en esos ahorros y nuestra tarifa de éxito aumenta en función del valor generado.",
-      "description4": "No se aplica tarifa de éxito en viviendas para uso personal o de propiedad a largo plazo.",
-      "description5": "Si la propiedad no se coloca en el mercado, se aplica una tarifa completa de mercado (disponible bajo solicitud)."
-      
+    "title": "Cómo Funciona",
+    "description1": "Cada proyecto sigue un plan personalizado desarrollado en colaboración con el cliente, guiado por datos del mercado, costos de materiales y características competitivas de diseño. Como firma orientada a los números, tomamos cada decisión desde una perspectiva de rentabilidad—analizando costo, valor y retorno potencial.",
+    "description2": "Asesoramos en cada detalle, respaldados por información de corredores locales y ventas comparables, para garantizar que el producto cumpla o supere las expectativas del mercado. El objetivo es entregar una vivienda altamente comercializable que maximice la ganancia sin comprometer la calidad. Los compradores sofisticados reconocen la buena mano de obra y los acabados de alto nivel, y diseñamos con ese estándar en mente.",
+    "description3": "La <strong>tarifa de gestión</strong> cubre todos los servicios esenciales, desde permisos hasta entrega.",
+    "description4": "La <strong>tarifa de éxito</strong> solo aplica a proyectos de reventa. Si logramos ahorros medibles en costo o tiempo, compartimos ese valor a través de una comisión ligada al rendimiento generado.",
+    "description5": "No se aplica tarifa de éxito a viviendas destinadas al uso personal o tenencia a largo plazo. Si la propiedad no se pone a la venta, se aplicará una estructura de tarifas estándar de mercado (disponible bajo solicitud)."
     },
     "criteria": {
       "title": "Lo que buscamos en los terrenos",
