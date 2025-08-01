@@ -300,6 +300,10 @@
         {
           "icon": "family.webp",
           "label": "Primarily single-family homes, but we also consider family compounds for legacy purposes"
+        },
+        {
+          "icon": "tree.webp",
+          "label": "Free from Significant Environmental Constraints"
         }
       ]
     },

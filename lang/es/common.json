@@ -300,6 +300,10 @@
         {
           "icon": "family.webp",
           "label": "Principalmente casas unifamiliares, pero también consideramos complejos familiares para legado"
+        },
+        {
+          "icon": "tree.webp",
+          "label": "Libre de restricciones ambientales significativas"
         }
       ]
     },
