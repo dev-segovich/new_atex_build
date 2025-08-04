@@ -196,8 +196,8 @@
   },
   "contactPage": {
     "title": "Contáctanos",
-    "subtitle": "Formulario de Inversor en Bienes Raíces",
-    "intro": "Accede a Oportunidades Exclusivas Internas.\nSolo compartimos oportunidades de inversión que desarrollamos y gestionamos nosotros mismos, todas cuidadosamente evaluadas y orientadas a un retorno superior al 20%.",
+    "subtitle": "Formulario de Inversor",
+    "intro": "Accede a oportunidades exclusivas internas. Solo compartimos oportunidades de inversión que desarrollamos y gestionamos directamente, todas cuidadosamente evaluadas y orientadas a un retorno superior al 20% anualizado en propiedades comerciales, o entre 14% y 18% cash-on-cash en viviendas unifamiliares frente al agua.",
     "sections": {
       "basic": "Información Básica",
       "type": "Tipo de Inversor*",
@@ -217,7 +217,8 @@
       "accredited": "Confirmo que soy un inversor acreditado según lo definido por la SEC de EE. UU.",
       "upload": "Sube el documento de acreditación (PDF o enlace)",
       "orLink": "O proporciona un enlace a tu documento de acreditación",
-      "minimumInvestment": "Confirmo que estoy interesado en inversiones de $250,000 o más"
+      "minimumInvestment": "Confirmo que estoy interesado en inversiones de $250,000 o más",
+      "unknown": "No estoy seguro (No te preocupes, podemos ayudarte a verificarlo y en caso que no ayudarte a acreditarte)"
     },
     "placeholders": {
       "otherType": "Si eligió 'Otro', por favor especifique",

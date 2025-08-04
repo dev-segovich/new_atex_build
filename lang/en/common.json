@@ -217,7 +217,8 @@
       "accredited": "I confirm I am an accredited investor as defined by the U.S. SEC",
       "upload": "Upload accreditation document (PDF or link)",
       "orLink": "Or provide a link to your accreditation document",
-      "minimumInvestment": "I confirm that I am interested in investments of $250,000 or more"
+      "minimumInvestment": "I confirm that I am interested in investments of $250,000 or more",
+      "unknown": "I’m not sure. (No worries, we help you verify and get accredited)"
     },
     "placeholders": {
       "otherType": "If Other, please specify",
@@ -261,18 +262,18 @@
   },
   "investmentStrategy": {
     "title": "Investment Strategy",
-    "intro": "Preserve and Grow Your Wealth in the U.S. Market. For investors focused on capital protection, U.S. waterfront real estate offers unmatched security. Our model is straightforward: acquire scarce, high-demand land, build luxury homes, and back your capital with tangible assets in a stable legal and economic environment. Every dollar is backed by real property in a prime coastal location. No speculation, no hidden risks. You control the asset, and we deliver with full transparency.",
+    "intro": "Preserve and Grow Your Wealth in the U.S. Market. For investors focused on capital protection, U.S. waterfront real estate offers unmatched security. Our model is straightforward: acquire scarce, high-demand land, build luxury homes, and back your capital with tangible assets in a stable legal and economic environment. Every dollar is backed by real property in a prime coastal location. No speculation, no hidden risks. You control the asset, and we deliver with full transparency. <br /><br /> Enjoy 100% ownership, whether using leverage or not, with projected cash-on-cash returns of 14% to 20% in the unleveraged model.",
     "why": {
       "title": "Why We Do It",
-      "description": "Waterfront property in South Florida is rare. That scarcity, combined with high-end design and boat access, delivers lasting value. Rather than parking cash in low-yield accounts or volatile markets, investors transform efficient capital into lasting assets, usable personally or as legacy holdings."
+      "description": "Waterfront property in South Florida is limited. That scarcity, combined with high-end design and boat access, delivers lasting value. Rather than parking cash in low-yield accounts or volatile markets, investors transform efficient capital into lasting assets, usable personally or as legacy holdings."
     },
     "ownership": {
       "title": "What You Own and Control",
       "description": "You receive full title to all land and improvements. You hold legal control over the project entity, design, exit strategy, and tax structure. All major decisions are yours, and you retain access to our development and construction services throughout execution. Our role is strictly operational."
     },
   "howItWorks": {
-    "title": "How It Works</",
-    "description1": "Each project follows a tailored plan developed in collaboration with the client, guided by market data, material costs, and competitive design features. As a numbers driven firm, we approach every decision through the lens of investment performance—analyzing cost, value, and potential return.",
+    "title": "How It Works",
+    "description1": "Each project follows a tailored plan developed in collaboration with the client, guided by market data, material costs, and competitive design features. As a numbers driven firm, we approach every decision through the lens of investment performance, analyzing cost, value, and potential return.",
     "description2": "We advise on every detail, supported by insights from local brokers and comparable sales, to ensure the product meets or exceeds market expectations. The goal is to deliver a highly marketable home that maximizes profit without compromising quality. Sophisticated buyers recognize superior craftsmanship and high-end finishes, and we design with that standard in mind.",
     "description3": "The <strong>Management Fee</strong> covers all core services from permitting to delivery.",
     "description4": "The <strong>Success Fee</strong> applies only to resale projects. If we deliver measurable savings in cost or time, we share in those savings through a success fee tied to the value we create.",
@@ -323,7 +324,7 @@
       },
       {
         "title": "The Bottom Line",
-        "description": "Building an exclusive residence on prime waterfront land is more than a statement—it’s a strategic asset. You stay in control. We execute. Together we create value that lasts."
+        "description": "Building an exclusive residence on prime waterfront land is more than a statement, it’s a strategic asset. You stay in control. We execute. Together we create value that lasts."
       }
     ],
      "carouselTitle": "Latest Project"
