@@ -117,6 +117,15 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     }
 
     if ($fullName && $email) {
+        
+        $dbSuccess = false;
+        $mailSuccess = false;
+        $dbError = null;
+        $mailError = null;
+
+        // ====================================
+        // PROCESO 1: BASE DE DATOS (Independiente)
+        // ====================================
         try {
             // Insertar en base de datos (Tabla marston_contact)
             $stmt = $pdo->prepare("
@@ -149,9 +158,18 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                 ":message" => $message
             ]);
 
-            // ====================================
+            $dbSuccess = true;
+
+        } catch (PDOException $e) {
+            $dbError = $e->getMessage();
+            error_log("Database Error in submit_contact.php: " . $dbError);
+        }
+
+        // ====================================
+        // PROCESO 2: CORREO ELECTRÓNICO (Independiente)
+        // ====================================
+        try {
             // CONFIGURAR CORREO (PHPMailer)
-            // ====================================
             $mail = new PHPMailer(true);
             $mail->isSMTP();
             $mail->Host = $smtpHost;
@@ -162,9 +180,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             $mail->Port = $smtpPort;
             $mail->CharSet = 'UTF-8';
 
-            // ====================================
             // ENVÍO AL CLIENTE
-            // ====================================
             $mail->setFrom($smtpUser, 'Marston Real Estate');
             $mail->addAddress($email, $fullName);
             $mail->Subject = "Welcome to Marston: Your Request is Confirmed";
@@ -179,7 +195,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                 
                 <p><strong>Next Steps</strong></p>
                 <p>We will reach out to schedule an introductory call or provide you with access to our current deal flow if you meet our criteria.</p>
-
+                
                 <p>We look forward to partnering with you.</p>
 
                 <br><br>
@@ -193,11 +209,9 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
             $mail->send();
 
-            // ====================================
             // ENVÍO INTERNO AL EQUIPO
-            // ====================================
             $mail->clearAddresses();
-            $mail->addAddress("info@zerotoplan.com"); // Usando el mismo correo de recepción por ahora
+            $mail->addAddress("info@zerotoplan.com"); 
             // Si hay otro correo para Marston, se debería cambiar aquí.
             
             $mail->Subject = "📩 New Investor Form Submission - {$fullName}";
@@ -222,22 +236,36 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
             $mail->send();
 
-            // ====================================
-            // CONFIRMACIÓN VISUAL AL USUARIO
-            // ====================================
+            $mailSuccess = true;
+
+        } catch (Exception $e) {
+            $mailError = $e->getMessage();
+            error_log("Mail Error in submit_contact.php: " . $mailError);
+        }
+
+        // ====================================
+        // RESPUESTA AL USUARIO
+        // ====================================
+        
+        if ($dbSuccess && $mailSuccess) {
             echo "<script>
                 alert('✅ Thank you! Your submission has been received.');
                 window.location.href='index.html';
             </script>";
-
-        } catch (Exception $e) {
+        } elseif (!$dbSuccess && $mailSuccess) {
             echo "<script>
-                alert('⚠️ Mail error: " . addslashes($e->getMessage()) . "');
-                window.history.back();
+                alert('✅ Thank you! Your submission has been received via email.');
+                window.location.href='index.html';
             </script>";
-        } catch (PDOException $e) {
+        } elseif ($dbSuccess && !$mailSuccess) {
             echo "<script>
-                alert('⚠️ Database error: " . addslashes($e->getMessage()) . "');
+                alert('✅ Submission saved, but we experienced an issue sending the confirmation email. We will contact you soon.');
+                window.location.href='index.html';
+            </script>";
+        } else {
+            $safeError = addslashes("DB: " . ($dbError ?? 'Unknown') . " | Mail: " . ($mailError ?? 'Unknown'));
+            echo "<script>
+                alert('⚠️ System Error: Unable to process your request. Please try again or contact us directly.');
                 window.history.back();
             </script>";
         }
