@@ -17,18 +17,32 @@ if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
-// Verificar dependencias
-$phpMailerPath = __DIR__ . '/../PHPMailer-master/src/PHPMailer.php';
-if (!file_exists($phpMailerPath)) {
+// Verificar dependencias y rutas posibles para PHPMailer
+$possiblePaths = [
+    __DIR__ . '/../PHPMailer-master/src/PHPMailer.php', // Local Dev (public/../PHPMailer...)
+    __DIR__ . '/PHPMailer-master/src/PHPMailer.php',    // Prod (root/PHPMailer...)
+];
+
+$phpMailerSrcDir = null;
+foreach ($possiblePaths as $path) {
+    if (file_exists($path)) {
+        // La ruta a 'src' es el directorio del archivo encontrado
+        $phpMailerSrcDir = dirname($path); 
+        break;
+    }
+}
+
+if (!$phpMailerSrcDir) {
     http_response_code(500);
-    echo json_encode(['success' => false, 'message' => 'Server Error: PHPMailer library missing.']);
+    // Devuelve paths buscados solo para debug por ahora
+    echo json_encode(['success' => false, 'message' => 'Server Error: PHPMailer library missing. Checked common paths.']);
     exit;
 }
 
-// RUTAS A PHPMailer (Ajustadas a la estructura real)
-require __DIR__ . '/../PHPMailer-master/src/PHPMailer.php';
-require __DIR__ . '/../PHPMailer-master/src/SMTP.php';
-require __DIR__ . '/../PHPMailer-master/src/Exception.php';
+// Cargar clases
+require $phpMailerSrcDir . '/PHPMailer.php';
+require $phpMailerSrcDir . '/SMTP.php';
+require $phpMailerSrcDir . '/Exception.php';
 
 // CREDENCIALES SMTP
 $smtpHost = 'mail.zerotoplan.com';
