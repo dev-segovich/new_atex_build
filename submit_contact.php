@@ -168,9 +168,9 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         // PROCESO 1: BASE DE DATOS (Independiente)
         // ====================================
         try {
-            // Insertar en base de datos (Tabla marston_contact)
+            // Insertar en base de datos (Tabla atex_contact)
             $stmt = $pdo->prepare("
-                INSERT INTO marston_contact (
+                INSERT INTO atex_contact (
                     full_name, email, phone_number, entity_name, 
                     investor_type, other_investor_type, acreditation_status, 
                     region_residence, other_region_residence, investment_interest, 
@@ -222,19 +222,19 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             $mail->CharSet = 'UTF-8';
 
             // ENVÍO AL CLIENTE
-            $mail->setFrom($smtpUser, 'Marston Real Estate');
+            $mail->setFrom($smtpUser, 'Atex Real Estate');
             $mail->addAddress($email, $fullName);
-            $mail->Subject = "Welcome to Marston: Your Request is Confirmed";
+            $mail->Subject = "Welcome to Atex: Your Request is Confirmed";
             $mail->isHTML(true);
 
             $mail->Body = "
             <html>
             <body style='font-family: Arial, sans-serif; color:#333;'>
                 <h2>Dear {$fullName},</h2>
-                <p>Thank you for contacting <strong>Marston Real Estate</strong>.</p>
+                <p>Thank you for contacting <strong>Atex Real Estate</strong>.</p>
                 <p>We are pleased to confirm the successful submission of your investor intake form. Our team is reviewing your details and will be in contact with you shortly to discuss exclusive opportunities.</p>
                 <br>
-                <p><strong>Marston Real Estate Team</strong></p>
+                <p><strong>Atex Real Estate Team</strong></p>
             </body>
             </html>
             ";
